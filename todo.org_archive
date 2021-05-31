@@ -1,0 +1,256 @@
+#    -*- mode: org -*-
+
+
+Archived entries from file //Users/denellis/Desktop/ORG-MODE/todo.org
+
+
+* DONE Contact Lexmark Print Shop
+  CLOSED: [2020-11-02 Mon 17:16] SCHEDULED: <2020-10-31 Sat>
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2020-11-02 Mon 17:52
+  :ARCHIVE_FILE: //Users/denellis/Desktop/ORG-MODE/todo.org
+  :ARCHIVE_OLPATH: Wedding
+  :ARCHIVE_CATEGORY: todo
+  :ARCHIVE_TODO: DONE
+  :END:
+
+* DONE Contact Lexmark Print Shop
+CLOSED: [2020-11-02 Mon 17:16] SCHEDULED: <2020-10-31 Sat>
+:PROPERTIES:
+:ARCHIVE_TIME: 2020-11-02 Mon 18:48
+:ARCHIVE_FILE: ~/Desktop/ORG-MODE/todo.org
+:ARCHIVE_OLPATH: Wedding
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE Career Transition ToDo's
+CLOSED: [2020-11-08 Sun 21:31] SCHEDULED: <2020-11-02 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2020-11-08 Sun 21:31
+:ARCHIVE_FILE: //Users/denellis/Desktop/ORG-MODE/todo.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: DONE
+:END:
+[[file:Second-Brain/CareerTransition.org][Career Transition File]]
+
+* STRT Export Lexmark Print Logo
+SCHEDULED: <2020-11-03 Tue>
+:PROPERTIES:
+:ARCHIVE_TIME: 2020-11-08 Sun 21:34
+:ARCHIVE_FILE: //Users/denellis/Desktop/ORG-MODE/todo.org
+:ARCHIVE_OLPATH: Work
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: STRT
+:END:
+
+* DONE STRT PPR Legacy Workflows [6/6]
+CLOSED: [2021-01-25 Mon 14:00] SCHEDULED: <2020-11-02 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-01-25 Mon 14:00
+:ARCHIVE_FILE: ~/Desktop/ORG-MODE/todo.org
+:ARCHIVE_OLPATH: Work
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: DONE
+:END:
+- [X] Batch Distribute
+- [X] Import Batch from Spreadsheet/Custom Mapping
+- [X] David's Feedback and Questions about multiple spreadsheet imports
+  Add select input for SignItems or ItemLibrary
+- [X] Import Items to Library from Spreadsheet
+- [X] Edit Library
+- [X] Image File Upload Manager Function
+
+* DONE FWF Hi-Fi Designs [4/4]
+CLOSED: [2021-01-25 Mon 14:00]
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-01-25 Mon 14:00
+:ARCHIVE_FILE: ~/Desktop/ORG-MODE/todo.org
+:ARCHIVE_OLPATH: Work
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: DONE
+:END:
+- [X] Research/Collect Assets
+- [X] Notification Center
+- [X] Screen Sizing 
+- [X] Scan & Preview
+
+* DONE Update Links to Portfolio Site in Projects
+CLOSED: [2021-01-25 Mon 14:01] SCHEDULED: <2020-11-19 Thu>
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-01-25 Mon 14:01
+:ARCHIVE_FILE: ~/Desktop/ORG-MODE/todo.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: DONE
+:END:
+
+* TODO IoT Icons
+SCHEDULED: <2021-01-25 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-02-15 Mon 13:45
+:ARCHIVE_FILE: //Users/denellis/Desktop/ORG-MODE/todo.org
+:ARCHIVE_OLPATH: Work
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: TODO
+:END:
+** Round 2 Peer Feedback
+*** Kelsi
+**** Concept 1
++ + Versions 2 & 3
++ + Dots in Circles
++ + Darker gradient for sub-icons
++ + More dots in 3
++ Prefers simpler, original globe
+**** Concept 2
++ - Vibrant green on 2nd sub-icon
+*** Dan
+**** Concept 1
++ Make sure it fits on 512 grid
++ + Darker gradient on sub-icons
++ Simplify gear
++ Prefers simpler, original globe
++ + Negative shapes in nodes (Diamond shape?)
++ + Simpler gradient
++ Movement between nodes to dress it up
+
+* TODO Finish Prototype [6/6]
+SCHEDULED: <2021-02-15 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-02-16 Tue 14:21
+:ARCHIVE_FILE: //Users/denellis/Desktop/ORG-MODE/todo.org
+:ARCHIVE_OLPATH: Work
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: TODO
+:END:
+- [X] Mobile Styles
+  - [X] Card height on home
+  - [X] Profile Picture
+  - [X] Add Widget Modal
+- [X] Scroll Chat
+- [X] Host on Heroku
+- [X] Row Edit Update
+- [X] Clean Up Code
+- [X] Add preview image
+
+* DONE Prototype Updates [9/9]
+CLOSED: [2021-02-18 Thu 13:17]
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-02-18 Thu 13:17
+:ARCHIVE_FILE: //Users/denellis/Desktop/ORG-MODE/todo.org
+:ARCHIVE_OLPATH: Work
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: DONE
+:END:
+- [X] Loading Gif
+- [X] 1) No Duplicate Widgets
+- [X] 2) Replace USB2
+- [X] 2.5) Toggle list view on Add Widget
+- [X] 3) Duplicate widget edit??
+- [X] 4) Small widget fill available columns
+- [X] 5) Copy "Start" to link
+- [X] 6) Update Preview Image
+- [X] Check font weights
+
+* TODO Submit Goals to PeopleSoft
+SCHEDULED: <2021-02-18 Thu>
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-02-24 Wed 10:30
+:ARCHIVE_FILE: //Users/denellis/Desktop/ORG-MODE/todo.org
+:ARCHIVE_OLPATH: Work
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: TODO
+:END:
+- Update Goals to include the future vision of software/mobile
+
+* DONE Wes Bos Stickers [6/6]
+CLOSED: [2021-05-24 Mon 09:20]
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-05-24 Mon 09:21
+:ARCHIVE_FILE: //Users/denellis/Desktop/ORG-MODE/todo.org
+:ARCHIVE_OLPATH: Work
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: DONE
+:END:
+- [X] Death by Deprecation
+- [X] Squiggles
+- [X] Hard Work
+- [X] No Deploys
+- [X] Vanilla JS
+- [X] WFH Club
+   
+  STRT: 11:54
+  STOP: 12:30
+  DIFF: 36min
+  
+  STRT: 12:48
+  STOP: 1:32 
+  DIFF: 44min
+  
+  STRT: 2:21
+  STOP: 2:40
+  DIFF: 19min
+
+  Total: 1hr 39min 
+
+* DONE Fixes
+CLOSED: [2021-05-24 Mon 09:21]
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-05-24 Mon 09:21
+:ARCHIVE_FILE: //Users/denellis/Desktop/ORG-MODE/todo.org
+:ARCHIVE_OLPATH: Work/FWF Prototype
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: DONE
+:END:
+- Fix Card Flip
+- Safari hieght issue
+
+
+
+
+* FWF Prototype
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-05-24 Mon 09:21
+:ARCHIVE_FILE: //Users/denellis/Desktop/ORG-MODE/todo.org
+:ARCHIVE_OLPATH: Work
+:ARCHIVE_CATEGORY: todo
+:END:
+** DONE Additional Features [4/4]
+CLOSED: [2021-05-24 Mon 09:21]
+- [X] Paging
+- [X] Control Panel Frame
+- [X] Dark Theme
+- [X] Card Flip Animation
+
+
+
+* DONE Summarizing the Problem Slide
+CLOSED: [2021-05-26 Wed 19:56]
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-05-26 Wed 21:01
+:ARCHIVE_FILE: //Users/denellis/Desktop/ORG-MODE/todo.org
+:ARCHIVE_OLPATH: Lexmark
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE Digital Roadmap Slides
+CLOSED: [2021-05-26 Wed 19:56]
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-05-26 Wed 21:01
+:ARCHIVE_FILE: //Users/denellis/Desktop/ORG-MODE/todo.org
+:ARCHIVE_OLPATH: Lexmark
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE LexMobile Presentation
+CLOSED: [2021-05-26 Wed 19:56]
+:PROPERTIES:
+:ARCHIVE_TIME: 2021-05-26 Wed 21:01
+:ARCHIVE_FILE: //Users/denellis/Desktop/ORG-MODE/todo.org
+:ARCHIVE_OLPATH: Lexmark
+:ARCHIVE_CATEGORY: todo
+:ARCHIVE_TODO: DONE
+:END:

@@ -1,0 +1,5 @@
+#+title: CODING_INDEX
+
++ [[file:ShellScripting.org][Shell Scripting]]
++ [[file:ToLearn.org][To Learn]]  
++ [[file:WP-Gatsby.org][WordPress + Gatsby]]

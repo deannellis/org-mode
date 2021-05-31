@@ -1,0 +1,4 @@
+#+title: Shell Scripting
+
+* Resources
+[[https://www.learnshell.org/][Learn Shell]]

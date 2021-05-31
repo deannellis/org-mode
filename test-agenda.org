@@ -1,0 +1,9 @@
+#+TODO: TODO IN-PROGRESS | DONE
+
+* TODO Complete this task eventually
+
+* TODO Complete this task by Nov 30th
+  DEADLINE: <2020-11-30 Mon>
+
+* TODO Start this task on Nov 30th.
+  SCHEDULED: <2020-11-30 Mon>

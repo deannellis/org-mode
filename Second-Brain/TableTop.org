@@ -1,0 +1,45 @@
+#+title: TableTop
+
+* WIP NOTES
+Need to go back through and make sure Subrace features that affect skill scores, hit points etc. take effect
+
+* ACTION ITEMS
+** TODO Create MDX POC
+*** Research MDX
+*** https://github.com/uiwjs/react-md-editor
+*** https://stackoverflow.com/questions/11076975/how-to-insert-text-into-the-textarea-at-the-current-cursor-position
+*** Build POC in Meteor
+** STRT Create Character Creator POC [16%]
+- [ ] Improve Card Select styling
+  - Add tertiary cards 
+  - Choose Class button disabled on non-selected cards
+- [ ] Change descriptions to not copyrighted versions
+  [[https://law.stackexchange.com/questions/21292/to-what-extent-can-a-person-use-wizards-of-the-coasts-dd-monster-information#:~:text=AD%26D%2C%20like%20all%20games%2C%20is%20covered%20under%20copyright.&text=In%20the%20context%20of%20the,various%20mechanics%20of%20the%20game][Legal Adive on DnD Copyright]]
+  [[http://5e.d20srd.org/srd/races.htm#Dwarf][DnD Ref Doc Fair Use]]
+  This may not be necessary. Instead of freemium model, use Fan Content Policy and encourage Patreon/donations
+ [[https://company.wizards.com/fancontentpolicy][Fan Content Policy]]
+- [X] Add other ability scoring options 
+- [ ] Back buttons / Persist Form Data
+- [ ] Pixel Art
+  - Arrows 
+  - Races
+  - Classes
+- [ ] Character Sheet
+  [[https://www.dndbeyond.com/forums/d-d-beyond-general/arts-crafts/13265-trying-to-improve-the-5e-character-sheet][Modern Sheet]] 
+
+** TODO Models for pre-defined backgrounds
+* Workflows
+** Player
+*** Character Creation
+** DM
+*** Creating a Session
+
+* Session Hierarchy
+** Session
+*** Narration
+*** Encounter
+**** NPCs
+**** Monsters
+- Stats
+- XP
+- Treasure

@@ -1,0 +1,22 @@
+#+TITLE: Kami
+#+DESCRIPTION: A front-end template
+
+* Features
+** Utility Classes
+*** CSS Variables first
+**** Reactive Variables
+- Dark Mode
+- Cozy, Compact, etc
+- Color Themeing
+*** SCSS Second
+Dive into mixins
+** TypeScript
+** Testing
+** React Query
+** File Structure
+** Common Component
+** Storybook
+
+* WIP
+** STRT Utility Classes/Base Styles
+** STRT Routing/Pages

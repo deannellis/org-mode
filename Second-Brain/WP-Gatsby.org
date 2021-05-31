@@ -1,0 +1,8 @@
+#+title: WordPress + Gatsby
+
+* Resources
+ - [[https://www.gatsbyjs.com/blog/2019-04-26-how-to-build-a-blog-with-wordpress-and-gatsby-part-1/][Gatsby's Blog Tutorial]]
+
+** Wordpress
+- [[https://premium.wpmudev.org/blog/the-ultimate-wordpress-backend-tutorial-a-guide-to-customization/][Customizing Wordpress UI]]
+- [[https://www.wpbeginner.com/wp-tutorials/how-to-create-custom-post-types-in-wordpress/][Custom Post Types]]

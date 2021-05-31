@@ -1,0 +1,8 @@
+#+TITLE: Dwarf Fortress
+
+* Toggle Window Panes
+with Tab
+
+* Adjust Z-Level
+- SHIFT - , = UP
+- SHIFT - . = DOWN

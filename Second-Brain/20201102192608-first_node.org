@@ -1,0 +1,3 @@
+#+title: First Node
+* First Node
+* Link to [[file:20201102192717-second_node.org][Second Node]] 

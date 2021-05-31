@@ -1,0 +1,25 @@
+#+title: Resources
+
+* Coding
+** VSCode
+*** Snippets
+[[https://code.visualstudio.com/docs/editor/userdefinedsnippets][User Defined Snippets]]
+** Git
+*** Delete all branches except master
+#+begin_src shell
+git branch | grep -v "master" | xargs git branch -d
+#+end_src 
+
+* Gatsby & WP
+[[https://www.gatsbyjs.com/blog/2019-04-26-how-to-build-a-blog-with-wordpress-and-gatsby-part-1/][Gatsby's Blog Tutorial]]
+[[https://cobwwweb.com/how-to-use-netlify-forms-with-gatsby][Gatsby Netlify Form Tutorial]]
+[[https://egghead.io/lessons/gatsby-automatically-trigger-netlify-deploys-for-wordpress-changes][Deploy WP Changes to Netlify]]
+[[https://premium.wpmudev.org/blog/the-ultimate-wordpress-backend-tutorial-a-guide-to-customization/][WP Branding]]
+
+
+
+* Helpful Web Dev Sites/Tools
+** Colors
++ [[https://colorhunt.co/][Color Hunt]]
+** Animation
++ [[https://loading.io/][Loading.io]]

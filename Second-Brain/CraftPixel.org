@@ -1,0 +1,126 @@
+#+TITLE: Craft Pixel
+
+[[https://samplecms.craftpixelwpfarm.space/wp-admin/][Sample Site CMS]]
+
+* Sample Site
+** Time Tracking [95%]
+
+|         Activity | Time        |
+|------------------+-------------|
+| Cloning git repo | ~10 min     |
+|               01 | 1 hr 10 min |
+|               02 | 43 min      |
+|               03 | 1 hr 10 min |
+|             04.1 | 3 hr 40 min |
+|             04.2 | 2 hr        |
+|             04.3 | 2 hr        |
+|               05 | 1 hr 55 min |
+|               06 | 35 min      |
+|               07 | 45 min      |
+|               08 | 55 min      |
+|               09 | 1hr 20 min  |
+|             12.1 | 1hr         |
+|------------------+-------------|
+|            TOTAL | 19hr 23min  |
+
+
+- [X] 01 - First Slideshow Image
+- [X] 02 - Style Carousel Controls
+  43 min
+  pivoted to Animated Hero
+- [X] 03 - Animated Hero
+- [X] 04 - Blog
+  Define Blog [100%]
+  + [X] Blog Page 
+  + [X] Cards
+  + [X] Pagination
+  + [X] Post Page
+    - Post
+    - Next Post
+- [X] 05 - Styling Improvements
+- [X] 06 - Set Up GitHub and Netlify
+  + Netlify build failed due to WP Hosting (I think)
+- [X] 07 - Set up stickers in store
+- [X] 08 - Set up Blog Cover Image
+- [X] 09 - Set up WordPress hosting
+- [X] 10 - Set up Contact Form
+- [X] 11 - Write Blog Posts
+  + About CP
+  + About Gatsby
+  + WP Backend
+  + Kitchen sink
+  + Snip Cart
+- [X] 12 - Non-sample Landing Page
+  Sections
+  a) Hero
+     Let's craft your website together
+
+     Your brand is bigger than a template or a theme. We have the design and development expertise to build your next site, store, blog, portfolio, or digital dreamscape. 
+
+     Coded by hand, crafted with love. 
+  b) Sample Site
+  c) Benefits
+     - WP Backend
+     - Gatsby Front-end
+       - Blazingly Fast
+         Pre-fetching
+         Image Optimization
+       - Accessible
+
+     - Static Benefits
+       Secure
+       SEO
+- [X] 13 - Set up SnipCart
+  + Snipcart product image
+- [X] 14 - Analytics
+- [X] 15 - Image Optimization
+- [X] 16 - Little Fixes/Ready for Public
+  + About Page
+  + Landing page links
+  + Contact link to actual contact form, change url?
+- [X] 17 - Styling Fixes
+  + Product Page Title Bar
+  + Blog page cover image
+  + Contact Inputs
+  + Outline button hover state
+  + Blog Images
+  + Blog Paging more like links
+- [-] 18 - Finalize WP/Make Site Live [4/7]
+  + +Move to Gatsby Cloud for live Preview+
+    Gatsby Cloud doesn't have form submission
+  + [X] Build Button in WP
+  + [X] Dress up WP
+  + [ ] Roles?
+  + [X] Better theme (underscores)
+  + [ ] Hide default blog
+    Syntax Ep. 312 @ 39:22
+  + [X] Domain Name
+  + [ ] Update siteUrl in gatsby config
+- [X] 19 - Optimize SEO
+- [X] 20 - Small Fixes
+  + Billing Input Stlying
+  + +Purchase Disclaimer+
+  + Messaging on Contact Form
+
+* Blog Posts
+** Meet Gatsby
+Here at Craft Pixel, Gatsby is our tool of choice for building client sites. In this post we will cover some of the features and benefits Gatsby offers that make it the clear choice for many of our sites and projects. But before we dive in, let's answer the question: what is Gatsby?
+
+Gatsby is a static site generator that utilizes modern web technologies to build sites that are optimized for speed and security. You may be wondering, what the heck is a static site generator? An SSG builds your site into static files and folders and serves those to users. In contrast, traditional web apps wait until a page is requested and then generate the view each time. An SSG does this in advance so that every view is ready ahead of time.
+
+You may be thinking, if my site is built to static files it probably won't be very dynamic or interactive, right? Not with Gatsby. Gatsby utilizes React, one of the most flexible and dynamic front-end frameworks. Gatsby simply builds out dynamic pages at "build time" instead of each time a user requests them.
+
+So when exactly is "build time"? Builds can occur whenever, on demand. We can set up hooks to trigger a build, whenever you data changes. For example, publishing a blog post in WordPress can trigger a build. That way the site rebuilds whenever the your data changes, keeping the website in sync. Decoupling the site's architecture in this way gives us some significant benefits and features.
+
+** Performace
+Building our sites in advance allows the site to be much more performant and fast. Sites load in record time and nativgating between pages doesn't cause the page to refresh. Gatsby also offers additional tools to make our pages load even faster, such as intelligent prefetching and image optimization. Have you noticed how fast pages load when clicking around the sample site?
+
+** Scalability
+More users, more content, no problem! Other sites have to build their views each time they are requested by a user. If a site like this spikes in traffic it has to keep up with all of these requests, potentially resulting in slow performace or even crashing the site. This is not an issue when the site is built ahead of time! The architecture is optomized for scale out of the box.
+
+** Security
+Cyber attackers use methods like scripting, database injections, and server-side vulnerabilites to attack websites. This can compromise valuable business data or worse, user data. Only serving static files eliminates many of these threats. Removing the need for servers to perform logic and do work reduces the ability for these servers to be compromised and exploited.
+
+That's it for now! Hopefully this gave you a better idea of why we use Gatsby at Craft Pixel.
+
+

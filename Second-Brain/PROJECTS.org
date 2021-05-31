@@ -1,0 +1,4 @@
+#+title: PROJECTS INDEX
+
++ [[file:CareerTransition.org][Career Transition]]
++ [[file:~/Desktop/ORG-MODE/Second-Brain/TableTop.org][TableTop]]

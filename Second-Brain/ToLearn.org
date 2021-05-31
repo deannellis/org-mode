@@ -1,0 +1,8 @@
+#+title: To Learn
+
+* TODO [[https://egghead.io/courses/advanced-react-component-patterns][Advanced React Patterns]]
+* TODO GSAP
+* TODO [[https://www.leveluptutorials.com/tutorials/advanced-animating-react-with-framer-motion][Framer Motion]]
+* TODO [[https://www.meteor-tuts.com/][Meteor]]
+* TODO React Native
+* TODO Nature of Code

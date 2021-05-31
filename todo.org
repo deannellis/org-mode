@@ -1,0 +1,25 @@
+* Personal
+** TODO Add Blog to portfolio site
+SCHEDULED: <2020-11-01 Sun>
+*** From VSCode to Vim, Emacs, and Back Again
+My Journey to Find the Perfect Text Editor
+*** Productivity Hacks
+- Alfred
+- Magnet
+- Alt and Cmd for selecting text, key repeat
+- Navigating Apps
+** TODO Adding paging to Gourmand
+SCHEDULED: <2020-11-01 Sun>
+** TODO Add Data Center Viusalization to portfolio
+SCHEDULED: <2020-11-01 Sun>
+** TODO Add USAA Work to portfolio
+SCHEDULED: <2020-11-08 Sun>
+* Lexmark
+
+* Modern Life Massage Therapy
+** Time Tracking
+| Start |  Stop | Time      |
+|-------+-------+-----------|
+| 11:01 | 12:25 | 1hr 24min |
+|  1:34 |  3:14 | 1hr 40min |
+| 10:28 | 10:54 | 26min     |
